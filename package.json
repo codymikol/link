@@ -1,0 +1,10 @@
+{
+  "name": "link",
+  "version": "1.0.0",
+  "description": "A brave little modem escapes the tyranny of his master",
+  "main": "index.js",
+  "repository": "git@github.com:codymikol/link.git",
+  "author": "Cody Mikol <codymikol@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
